@@ -3,9 +3,11 @@ public class activity1 {
         System.out.println("List of Students:");
         // Collaborators: Add your names below using the format:
         // System.out.println("Your Full Name - Section");
-   
-            System.out.println("MARC JOSH MARAVILLA - BSIT-2J");
-            System.out.println("LHEIAN V. SAREN - BSIT-2J");
+
+        //EXAMPLE:
+        System.out.println("NEIL JOHN DIAZ - BSIT 2I");
+        System.out.println("MARC JOSH MARAVILLA - BSIT-2J");
+        System.out.println("LHEIAN V. SAREN - BSIT-2J");
     }
 }
   
