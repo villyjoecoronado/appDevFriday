@@ -5,6 +5,7 @@ public class activity1 {
         // System.out.println("Your Full Name - Section");
    
             System.out.println("MARC JOSH MARAVILLA - BSIT-2J");
+            System.out.println("LHEIAN V. SAREN - BSIT-2J");
     }
 }
   
